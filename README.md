@@ -10,15 +10,13 @@ A journaling feature is currently in development to let users jot down notes or 
 
 - 📖 **Book Fetching:** Fetches a wide variety of books using the **Gutenberg API** and displays their content dynamically.
 - 💬 **Interactive Reader:** Users can highlight text passages while reading.
-(public/assets/highlights.png) 
+![Highlight Feature](assets/highlights.png)
 - ☁️ **Firebase Integration:** Highlights are stored in Firebase for persistent access across sessions.  
 - 🔑 **Authentication System:** Supports secure **Sign Up**, **Sign In**, and **Logout** functionalities.
-![Login Feature]
-(public/assets/login.png)
-![Signup Feature]
-(public/assets/signup.png)
+![Login Feature](assets/login.png)
+![Signup Feature](assets/signup.png)
 - 🗂️ **Left Sidebar:** Provides quick access to all saved highlights and journals.
-(public/assets/lefttab.png) 
+![Lefttab Feature](assets/lefttab.png) 
 - 🧭 **Routing with React Router DOM:** Smooth navigation between pages and book views.  
 - 🪄 **Responsive UI:** Works seamlessly on all screen sizes.  
 - 📝 **Upcoming Feature:** Journaling section where users can maintain notes alongside highlights.  

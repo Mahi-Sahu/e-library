@@ -1,0 +1,40 @@
+.signin-container {
+  border: 1px solid #1C0221;
+  border-radius: 8px;
+  padding: 1.5rem 2rem;
+  width: 50vmin;
+  background-color: #1C0221; 
+  color: wheat;
+  box-shadow: 0 4px 10px #1C0221; 
+}
+
+.signin-container h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.signin-container input{
+  background-color: rgb(248, 235, 210);
+  transition: 0.3s ease-in-out;
+}
+
+.sign-in-footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.sign-in-button{
+  color: #1C0221;
+  background-color: wheat;
+  border-radius: 5px;
+  padding: 5px;
+  border: none;
+  font-weight: bold;
+  transition: 0.2s ease-in-out;
+  margin-top: 10px;
+}
+.sign-in-button:hover{
+  background-color: #AD7748;
+  color: white;
+}
